@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Amazon, Google**
 
-- 🤝 I’m looking for help with **@MrBibhu06**
+
 
 - 💬 Ask me about **HTML, CSS, C, C++**
 
